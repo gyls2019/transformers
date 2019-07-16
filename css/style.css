@@ -113,6 +113,12 @@ Banner
 	min-height: 580px;
     position: relative;
 }
+.banner1{
+	background: url('../img/bg-banner1.jpg') no-repeat center top;
+    background-size: cover;
+	min-height: 580px;
+    position: relative;
+}
 
 .text-dec{
 	font-size: 24px;
@@ -412,7 +418,8 @@ Mentor Team
 Testimonial
 ************************************/
 #testimonial{
-    background-color: #111;
+    background-color: #FF5757;
+
 }
 .bg-white{
     background-color: #fff !important;
