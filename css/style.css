@@ -74,7 +74,7 @@ Navigation bar
 
 .btn-trial a{
 	background-color: #009DDC;
-	border-radius: 25px;
+	border-radius: 25bpx;
 	color: #ffffff !important;
 	border: 1px solid #009DDC;
 }
@@ -113,10 +113,7 @@ Banner
 	min-height: 580px;
     position: relative;
 }
-.bg-color{
-	background-color: RGBA(12, 11, 11, 0.35);
-	min-height: 580px;
-}
+
 .text-dec{
 	font-size: 24px;
 	padding: 10px 20px;
